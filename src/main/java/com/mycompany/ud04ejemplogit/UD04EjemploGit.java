@@ -1,16 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.ud04ejemplogit;
 
 /**
- *
+ * Descripción de la clase
  * @author endik
  */
 public class UD04EjemploGit {
 
+    /**
+     * 
+     * @param args the command line argument
+     */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        // TODO code application logic here
+        System.out.println("Ejemplo de Git");
     }
 }
